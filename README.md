@@ -37,14 +37,17 @@
 
 ## Tech Stack
 
+## Tech Stack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,bun,react,nextjs,python,docker,github,git,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,bun,react,nextjs,python,docker,nginx,cloudflare,github,git,tailwind" />
 </p>
 
 **Frontend:** React · Next.js · TanStack Query · TanStack Table · Zustand · Framer Motion · Tailwind CSS
 **Backend:** Node.js · Express.js · Bun
 **Languages:** JavaScript · TypeScript · Python
-**Tools & DevOps:** Docker · Git · GitHub · CI/CD
+**DevOps & Deployment:** Docker · Nginx Reverse Proxy · Cloudflare · Git · GitHub · CI/CD
+**Analytics & SEO:** Google Analytics · Google Search Console · Technical SEO · Sitemap · Metadata · Structured Data
 
 ---
 
